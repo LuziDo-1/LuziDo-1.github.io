@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to LuziDo-1
 
 You can use the [editor on GitHub](https://github.com/LuziDo-1/LuziDo-1.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
